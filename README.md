@@ -6,7 +6,7 @@
 **Studio d'édition logicielle : applications web, SaaS & agents IA.**
 
 [![Website](https://img.shields.io/badge/aixis.fr-0f172a?style=for-the-badge&logo=safari&logoColor=white)](https://www.aixis.fr)
-[![X](https://img.shields.io/badge/@Fen__xx-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Fen__xx)
+[![X](https://img.shields.io/badge/@aixis__studio-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aixis_studio)
 [![Snitch](https://img.shields.io/github/stars/aixisstudio/Snitch?style=for-the-badge&logo=github&label=Snitch)](https://github.com/aixisstudio/Snitch)
 
 **[English](#-english) · [Français](#-français)**
