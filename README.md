@@ -44,6 +44,26 @@ something worth sharing, we open-source it.
 
 <img src="https://raw.githubusercontent.com/aixisstudio/Snitch/main/docs/assets/demo.gif" width="100%" alt="Snitch demo"/>
 
+### 📚 Open-source resources
+
+Hand-picked tools, lists and sandboxes we maintain for the community.
+
+| 🛡️ Security | 🎨 Profile & README |
+|---|---|
+| [awesome-network-security](https://github.com/aixisstudio/awesome-network-security) — firewalls, IDS, honeypots | [readme-badges](https://github.com/aixisstudio/readme-badges) — markdown badge collection |
+| [free-security-tools](https://github.com/aixisstudio/free-security-tools) — the best free sec tools | [github-profile-templates](https://github.com/aixisstudio/github-profile-templates) — ready-made profiles |
+| [osint-tools-list](https://github.com/aixisstudio/osint-tools-list) — recon & investigation | [skill-badges](https://github.com/aixisstudio/skill-badges) — skill icon rows |
+| [network-tools-list](https://github.com/aixisstudio/network-tools-list) — network diagnostics | [animated-readme](https://github.com/aixisstudio/animated-readme) — widgets that move |
+| [security-interview-questions](https://github.com/aixisstudio/security-interview-questions) — Q&A with answers | [github-achievements](https://github.com/aixisstudio/github-achievements) — every badge explained |
+
+| 🤝 Community & first PRs | 📖 Learning |
+|---|---|
+| [add-your-name](https://github.com/aixisstudio/add-your-name) — your first merged PR | [dev-resources](https://github.com/aixisstudio/dev-resources) — free courses & tools |
+| [first-pull-request](https://github.com/aixisstudio/first-pull-request) — practice sandbox | [coding-cheatsheets](https://github.com/aixisstudio/coding-cheatsheets) — commands that matter |
+| [open-source-guide](https://github.com/aixisstudio/open-source-guide) — step-by-step guide | [linux-commands](https://github.com/aixisstudio/linux-commands) — the ones you actually use |
+| [follow-back-hub](https://github.com/aixisstudio/follow-back-hub) — community directory | [github-chess](https://github.com/aixisstudio/github-chess) — community chess via Issues |
+| [star-this-repo](https://github.com/aixisstudio/star-this-repo) — a friendly joke ⭐ | |
+
 ### 🧰 Our toolbox
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -87,6 +107,26 @@ direct sur un globe. Local-first, sans cloud, sans télémétrie.
 [Site](https://aixisstudio.github.io/Snitch/) ·
 [Wiki](https://github.com/aixisstudio/Snitch/wiki) ·
 [Contribuer](https://github.com/aixisstudio/Snitch/blob/main/CONTRIBUTING.md)
+
+### 📚 Ressources open source
+
+Outils, listes et bacs à sable que nous maintenons pour la communauté.
+
+| 🛡️ Sécurité | 🎨 Profil & README |
+|---|---|
+| [awesome-network-security](https://github.com/aixisstudio/awesome-network-security) — pare-feux, IDS, honeypots | [readme-badges](https://github.com/aixisstudio/readme-badges) — collection de badges markdown |
+| [free-security-tools](https://github.com/aixisstudio/free-security-tools) — les meilleurs outils gratuits | [github-profile-templates](https://github.com/aixisstudio/github-profile-templates) — profils prêts à l'emploi |
+| [osint-tools-list](https://github.com/aixisstudio/osint-tools-list) — recon & investigation | [skill-badges](https://github.com/aixisstudio/skill-badges) — rangées d'icônes de skills |
+| [network-tools-list](https://github.com/aixisstudio/network-tools-list) — diagnostic réseau | [animated-readme](https://github.com/aixisstudio/animated-readme) — widgets animés |
+| [security-interview-questions](https://github.com/aixisstudio/security-interview-questions) — Q/R d'entretien | [github-achievements](https://github.com/aixisstudio/github-achievements) — tous les badges expliqués |
+
+| 🤝 Communauté & premières PRs | 📖 Apprendre |
+|---|---|
+| [add-your-name](https://github.com/aixisstudio/add-your-name) — ta première PR fusionnée | [dev-resources](https://github.com/aixisstudio/dev-resources) — cours et outils gratuits |
+| [first-pull-request](https://github.com/aixisstudio/first-pull-request) — bac à sable guidé | [coding-cheatsheets](https://github.com/aixisstudio/coding-cheatsheets) — les commandes utiles |
+| [open-source-guide](https://github.com/aixisstudio/open-source-guide) — guide pas à pas | [linux-commands](https://github.com/aixisstudio/linux-commands) — celles qu'on utilise vraiment |
+| [follow-back-hub](https://github.com/aixisstudio/follow-back-hub) — annuaire communautaire | [github-chess](https://github.com/aixisstudio/github-chess) — échecs communautaires |
+| [star-this-repo](https://github.com/aixisstudio/star-this-repo) — une blague sympa ⭐ | |
 
 ### 🤝 Travailler avec nous
 
