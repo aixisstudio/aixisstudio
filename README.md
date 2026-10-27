@@ -8,7 +8,7 @@
 [![Website](https://img.shields.io/badge/aixis.fr-0f172a?style=for-the-badge&logo=safari&logoColor=white)](https://www.aixis.fr)
 [![X](https://img.shields.io/badge/@aixis__studio-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aixis_studio)
 [![Snitch](https://img.shields.io/github/stars/aixisstudio/Snitch?style=for-the-badge&logo=github&label=Snitch&cacheSeconds=3600&color=0f172a)](https://github.com/aixisstudio/Snitch)
-[![Stars](https://img.shields.io/github/stars/aixisstudio?style=for-the-badge&logo=sparkles&logoColor=gold&label=%E2%AD%90%20Total%20stars&color=8b5cf6&labelColor=0f172a)](https://github.com/aixisstudio?tab=repositories)
+[![Stars](https://img.shields.io/github/stars/aixisstudio?style=for-the-badge&logo=sparkles&logoColor=gold&label=%E2%AD%90%20Total%20stars&color=8b5cf6&labelColor=0f172a&cacheSeconds=300)](https://github.com/aixisstudio?tab=repositories)
 
 **[English](#-english) · [Français](#-français)**
 
