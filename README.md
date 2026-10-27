@@ -62,7 +62,7 @@ Hand-picked tools, lists and sandboxes we maintain for the community.
 | [first-pull-request](https://github.com/aixisstudio/first-pull-request) — practice sandbox | [coding-cheatsheets](https://github.com/aixisstudio/coding-cheatsheets) — commands that matter |
 | [open-source-guide](https://github.com/aixisstudio/open-source-guide) — step-by-step guide | [linux-commands](https://github.com/aixisstudio/linux-commands) — the ones you actually use |
 | [follow-back-hub](https://github.com/aixisstudio/follow-back-hub) — community directory | [github-chess](https://github.com/aixisstudio/github-chess) — community chess via Issues |
-| [star-this-repo](https://github.com/aixisstudio/star-this-repo) — a friendly joke ⭐ | |
+| [star-this-repo](https://github.com/aixisstudio/star-this-repo) — a friendly joke ⭐ | [hacktoberfest-friendly](https://github.com/aixisstudio/hacktoberfest-friendly) — PRs auto-merged 🎃 |
 
 ### 🧰 Our toolbox
 
@@ -126,7 +126,7 @@ Outils, listes et bacs à sable que nous maintenons pour la communauté.
 | [first-pull-request](https://github.com/aixisstudio/first-pull-request) — bac à sable guidé | [coding-cheatsheets](https://github.com/aixisstudio/coding-cheatsheets) — les commandes utiles |
 | [open-source-guide](https://github.com/aixisstudio/open-source-guide) — guide pas à pas | [linux-commands](https://github.com/aixisstudio/linux-commands) — celles qu'on utilise vraiment |
 | [follow-back-hub](https://github.com/aixisstudio/follow-back-hub) — annuaire communautaire | [github-chess](https://github.com/aixisstudio/github-chess) — échecs communautaires |
-| [star-this-repo](https://github.com/aixisstudio/star-this-repo) — une blague sympa ⭐ | |
+| [star-this-repo](https://github.com/aixisstudio/star-this-repo) — une blague sympa ⭐ | [hacktoberfest-friendly](https://github.com/aixisstudio/hacktoberfest-friendly) — PR auto-fusionnées 🎃 |
 
 ### 🤝 Travailler avec nous
 
