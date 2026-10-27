@@ -9,8 +9,6 @@
 [![X](https://img.shields.io/badge/@aixis__studio-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aixis_studio)
 [![Snitch](https://img.shields.io/github/stars/aixisstudio/Snitch?style=for-the-badge&logo=github&label=Snitch&cacheSeconds=3600&color=0f172a)](https://github.com/aixisstudio/Snitch)
 [![Stars](https://img.shields.io/github/stars/aixisstudio?style=for-the-badge&logo=sparkles&logoColor=gold&label=%E2%AD%90%20Total%20stars&color=8b5cf6&labelColor=0f172a)](https://github.com/aixisstudio?tab=repositories)
-[![Followers](https://img.shields.io/github/followers/aixisstudio?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=0f172a&labelColor=0f172a)](https://github.com/aixisstudio?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=aixisstudio&style=for-the-badge&color=0ea5e9&label=Views)](https://github.com/aixisstudio)
 
 **[English](#-english) · [Français](#-français)**
 
