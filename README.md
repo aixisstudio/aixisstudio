@@ -99,16 +99,16 @@ Hand-picked tools, lists and sandboxes we maintain for the community.
 | [awesome-ai-tools](https://github.com/aixisstudio/awesome-ai-tools) — the best AI tools | [ai-prompts-hub](https://github.com/aixisstudio/ai-prompts-hub) — community prompt library |
 | [awesome-ai-agents](https://github.com/aixisstudio/awesome-ai-agents) — agents & frameworks | [ai-image-prompts](https://github.com/aixisstudio/ai-image-prompts) — prompt gallery w/ results |
 | [awesome-local-llm](https://github.com/aixisstudio/awesome-local-llm) — run LLMs privately | [prompt-engineering-guide](https://github.com/aixisstudio/prompt-engineering-guide) — zero to advanced |
-| [open-source-ai-models](https://github.com/aixisstudio/open-source-ai-models) — open models | [ai-video-tools](https://github.com/aixisstudio/ai-video-tools) — generation & editing |
-| [rag-resources](https://github.com/aixisstudio/rag-resources) — RAG tools & patterns | [ai-audio-tools](https://github.com/aixisstudio/ai-audio-tools) — TTS, voice, music |
+| [open-source-ai-models](https://github.com/aixisstudio/open-source-ai-models) — open models | [ai-video-tools](https://github.com/aixisstudio/system-prompts) — generation & editing |
+| [rag-resources](https://github.com/aixisstudio/rag-resources) — RAG tools & patterns | [ai-audio-tools](https://github.com/aixisstudio/claude-skills) — TTS, voice, music |
 
 | Guides & lists | Tools |
 |---|---|
 | [machine-learning-roadmap](https://github.com/aixisstudio/machine-learning-roadmap) — guided path | [llm-api-examples](https://github.com/aixisstudio/llm-api-examples) — copy-paste snippets |
 | [ml-interview-questions](https://github.com/aixisstudio/ml-interview-questions) — Q&A w/ answers | [ai-automation-tools](https://github.com/aixisstudio/ai-automation-tools) — agents & pipelines |
 | [awesome-ai-papers](https://github.com/aixisstudio/awesome-ai-papers) — papers explained | [ai-coding-tools](https://github.com/aixisstudio/ai-coding-tools) — assistants compared |
-| [ai-for-developers](https://github.com/aixisstudio/ai-for-developers) — AI dev workflows | [ai-business-ideas](https://github.com/aixisstudio/ai-business-ideas) — 100 buildable ideas |
-| [awesome-ai-benchmarks](https://github.com/aixisstudio/awesome-ai-benchmarks) — evals | [free-ai-tools](https://github.com/aixisstudio/free-ai-tools) — the free stuff |
+| [ai-for-developers](https://github.com/aixisstudio/llm-app-gallery) — AI dev workflows | [ai-business-ideas](https://github.com/aixisstudio/awesome-mcp-servers) — 100 buildable ideas |
+| [awesome-ai-benchmarks](https://github.com/aixisstudio/ai-coding-rules) — evals | [free-ai-tools](https://github.com/aixisstudio/free-ai-tools) — the free stuff |
 
 ### 🤝 Work with us
 
@@ -166,16 +166,16 @@ Outils, listes et bacs à sable que nous maintenons pour la communauté.
 | [awesome-ai-tools](https://github.com/aixisstudio/awesome-ai-tools) — les meilleurs outils IA | [ai-prompts-hub](https://github.com/aixisstudio/ai-prompts-hub) — bibliothèque de prompts |
 | [awesome-ai-agents](https://github.com/aixisstudio/awesome-ai-agents) — agents & frameworks | [ai-image-prompts](https://github.com/aixisstudio/ai-image-prompts) — galerie de prompts |
 | [awesome-local-llm](https://github.com/aixisstudio/awesome-local-llm) — LLM en privé | [prompt-engineering-guide](https://github.com/aixisstudio/prompt-engineering-guide) — guide complet |
-| [open-source-ai-models](https://github.com/aixisstudio/open-source-ai-models) — modèles ouverts | [ai-video-tools](https://github.com/aixisstudio/ai-video-tools) — génération & édition |
-| [rag-resources](https://github.com/aixisstudio/rag-resources) — outils & patterns RAG | [ai-audio-tools](https://github.com/aixisstudio/ai-audio-tools) — TTS, voix, musique |
+| [open-source-ai-models](https://github.com/aixisstudio/open-source-ai-models) — modèles ouverts | [ai-video-tools](https://github.com/aixisstudio/system-prompts) — génération & édition |
+| [rag-resources](https://github.com/aixisstudio/rag-resources) — outils & patterns RAG | [ai-audio-tools](https://github.com/aixisstudio/claude-skills) — TTS, voix, musique |
 
 | Guides & listes | Outils |
 |---|---|
 | [machine-learning-roadmap](https://github.com/aixisstudio/machine-learning-roadmap) — parcours guidé | [llm-api-examples](https://github.com/aixisstudio/llm-api-examples) — snippets prêts |
 | [ml-interview-questions](https://github.com/aixisstudio/ml-interview-questions) — Q/R d'entretien | [ai-automation-tools](https://github.com/aixisstudio/ai-automation-tools) — agents & pipelines |
 | [awesome-ai-papers](https://github.com/aixisstudio/awesome-ai-papers) — papiers expliqués | [ai-coding-tools](https://github.com/aixisstudio/ai-coding-tools) — assistants comparés |
-| [ai-for-developers](https://github.com/aixisstudio/ai-for-developers) — workflows IA | [ai-business-ideas](https://github.com/aixisstudio/ai-business-ideas) — 100 idées réalisables |
-| [awesome-ai-benchmarks](https://github.com/aixisstudio/awesome-ai-benchmarks) — évaluations | [free-ai-tools](https://github.com/aixisstudio/free-ai-tools) — le gratuit |
+| [ai-for-developers](https://github.com/aixisstudio/llm-app-gallery) — workflows IA | [ai-business-ideas](https://github.com/aixisstudio/awesome-mcp-servers) — 100 idées réalisables |
+| [awesome-ai-benchmarks](https://github.com/aixisstudio/ai-coding-rules) — évaluations | [free-ai-tools](https://github.com/aixisstudio/free-ai-tools) — le gratuit |
 
 ### 🤝 Travailler avec nous
 
